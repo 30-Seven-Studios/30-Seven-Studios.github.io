@@ -1,1 +1,1 @@
-# 30-Seven.github.io
+# 30-Seven's dumb website
